@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Song Haojie/Desktop/CPP/LeetCode/Matrix_Rotate/build",
+  "command": "\"E:\\Programs Files\\mingw64\\bin\\g++.exe\"   -g -o CMakeFiles\\main.dir\\src\\matrix_rotate.cpp.obj -c \"C:\\Users\\Song Haojie\\Desktop\\CPP\\LeetCode\\Matrix_Rotate\\src\\matrix_rotate.cpp\"",
+  "file": "C:/Users/Song Haojie/Desktop/CPP/LeetCode/Matrix_Rotate/src/matrix_rotate.cpp",
+  "output": "CMakeFiles/main.dir/src/matrix_rotate.cpp.obj"
+}
+]
