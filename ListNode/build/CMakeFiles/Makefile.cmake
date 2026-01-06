@@ -7,7 +7,7 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "C:/Users/Song Haojie/Desktop/CPP/LeetCode/Matrix_Rotate/CMakeLists.txt"
+  "C:/Users/Song Haojie/Desktop/CPP/LeetCode/ListNode/CMakeLists.txt"
   "CMakeFiles/4.2.0-rc2/CMakeCCompiler.cmake"
   "CMakeFiles/4.2.0-rc2/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.2.0-rc2/CMakeRCCompiler.cmake"

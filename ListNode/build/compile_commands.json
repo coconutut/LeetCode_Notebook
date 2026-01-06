@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Song Haojie/Desktop/CPP/LeetCode/ListNode/build",
+  "command": "\"E:\\Programs Files\\mingw64\\bin\\g++.exe\"   -g -o CMakeFiles\\main.dir\\src\\Intersection_Node.cpp.obj -c \"C:\\Users\\Song Haojie\\Desktop\\CPP\\LeetCode\\ListNode\\src\\Intersection_Node.cpp\"",
+  "file": "C:/Users/Song Haojie/Desktop/CPP/LeetCode/ListNode/src/Intersection_Node.cpp",
+  "output": "CMakeFiles/main.dir/src/Intersection_Node.cpp.obj"
+}
+]

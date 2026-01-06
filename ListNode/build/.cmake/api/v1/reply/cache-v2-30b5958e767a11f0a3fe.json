@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Song Haojie/Desktop/CPP/LeetCode/Matrix_Rotate/build"
+			"value" : "c:/Users/Song Haojie/Desktop/CPP/LeetCode/ListNode/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -155,10 +155,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "E:/Programs Files/mingw64/bin/g++.exe"
 		},
 		{
@@ -299,10 +299,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "E:/Programs Files/mingw64/bin/gcc.exe"
 		},
 		{
@@ -587,7 +587,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Song Haojie/Desktop/CPP/LeetCode/Matrix_Rotate/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Song Haojie/Desktop/CPP/LeetCode/ListNode/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Song Haojie/Desktop/CPP/LeetCode/Matrix_Rotate"
+			"value" : "C:/Users/Song Haojie/Desktop/CPP/LeetCode/ListNode"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1331,7 +1331,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Song Haojie/Desktop/CPP/LeetCode/Matrix_Rotate/build"
+			"value" : "C:/Users/Song Haojie/Desktop/CPP/LeetCode/ListNode/build"
 		},
 		{
 			"name" : "matrix_rotate_IS_TOP_LEVEL",
@@ -1355,7 +1355,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Song Haojie/Desktop/CPP/LeetCode/Matrix_Rotate"
+			"value" : "C:/Users/Song Haojie/Desktop/CPP/LeetCode/ListNode"
 		}
 	],
 	"kind" : "cache",

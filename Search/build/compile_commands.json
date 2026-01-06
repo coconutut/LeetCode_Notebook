@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Song Haojie/Desktop/CPP/LeetCode/Search/build",
+  "command": "\"E:\\Programs Files\\mingw64\\bin\\g++.exe\"   -g -o CMakeFiles\\main.dir\\src\\hash_search.cpp.obj -c \"C:\\Users\\Song Haojie\\Desktop\\CPP\\LeetCode\\Search\\src\\hash_search.cpp\"",
+  "file": "C:/Users/Song Haojie/Desktop/CPP/LeetCode/Search/src/hash_search.cpp",
+  "output": "CMakeFiles/main.dir/src/hash_search.cpp.obj"
+}
+]
